@@ -1,0 +1,11 @@
+img {
+    border: red solid 5px;
+}
+div {
+    position: absolute;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+a {
+    font size: 500px;
+}
