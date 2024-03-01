@@ -1,5 +1,8 @@
 img {
     border: red solid 5px;
+    width: 600px;
+    height: 400px;
+    background-image: url(../images/wall.png)
 }
 div {
     position: absolute;
@@ -8,4 +11,6 @@ div {
 }
 a {
     font size: 500px;
+img:hover {
+    border: black solid 5px;
 }
