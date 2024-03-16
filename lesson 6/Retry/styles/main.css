@@ -1,0 +1,15 @@
+.link {
+	width: 500px;
+	height: 300px;
+	border: 3px solid transparent;
+	width: 250px;
+	display: block;
+	background-image: url("https://www.forumdaily.com/wp-content/uploads/2020/07/shutterstock_766353556.jpg");
+	background-repeat: no-repeat;
+	color: white;
+	padding: 5px;
+	background-size: cover;
+}
+.link:hover {
+	border-color: blue;
+}
